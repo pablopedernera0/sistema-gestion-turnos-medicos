@@ -1,4 +1,4 @@
-# [Nombre del Sistema] — Grupo [N]
+# Sistema de Gestión de Turnos Médicos — Grupo 16
 
 > Materia: Diseño de Sistemas Web — Analista Funcional de Sistemas  
 > Institución: Terciario Urquiza — Rosario  
@@ -11,7 +11,7 @@ Ver [integrantes.md](integrantes.md)
 
 ## Descripción del proyecto
 
-_Breve descripción del sistema que el grupo está analizando y documentando._
+Este sistema esta pensado para gestionar los turnos de un centro médico
 
 ## Caso de estudio
 
